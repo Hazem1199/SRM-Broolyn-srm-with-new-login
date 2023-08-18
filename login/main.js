@@ -55,8 +55,8 @@
 
 
 
-// const file = window.location.pathname + "/login.html";
-// const destination = "http://127.0.0.1:5501/login/login.html";
+// const file = window.location.pathname + "/index.html";
+// const destination = "http://127.0.0.1:5501/index.html";
 
 // async function transferFile() {
 //     const response = await fetch(file);
